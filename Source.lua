@@ -61,7 +61,7 @@ local darklib = {
   Options = {},
   Flags = {},
   Tabs = {},
-  Icons = loadstring(game:HttpGet(""))()
+  Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/DarkLib/refs/heads/main/Icons.lua"))()
 }
 
 local ViewportSize = workspace.CurrentCamera.ViewportSize
